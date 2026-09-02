@@ -10,7 +10,7 @@
   | <a href="https://github.com/foundation/foundation-sites/releases">Releases</a>
   | <a href="CONTRIBUTING.md">Contributing</a>
 </p>
-
+ 
 ---
 
 [![Build Status](https://github.com/foundation/foundation-sites/workflows/CI/badge.svg)](https://github.com/foundation/foundation-sites/actions?workflow=CI)
